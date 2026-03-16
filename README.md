@@ -1,20 +1,12 @@
 # ⚔️ Hunter: The Vigil 2e — Tactics Engine
 
-### An interactive tactics simulator and reference tool for the RPG Hunter: The Vigil 2e, built by fans, for fans.
+### An interactive tactics calculator for the RPG Hunter: The Vigil 2e, built by fans, for fans.
 
 ---
 
 ## 🎯 What is this?
 
-The **Tactics Engine** is an interactive tactical guide designed to help players and storytellers of Hunter: The Vigil 2e plan confrontations, explore ability combinations, and make better decisions during the hunt.
-
-Whether you're a seasoned hunter or someone who just joined a cell, this tool was made to make your sessions more dynamic and strategic.
-
-## 🛠️ Features
-
-- Tactics and encounter simulation
-- Quick reference for skills and combinations
-- Lightweight interface — runs directly in the browser
+The **Tactics Engine** is an interactive calculator designed to help players and storytellers of Hunter: The Vigil 2e plan confrontations and make better decisions during the hunt.
 
 ## 🚀 Live
 
