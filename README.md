@@ -1,4 +1,4 @@
-# ⚔️ (BETA)Hunter: The Vigil 2e — Tactics Engine [ALPHA]
+# ⚔️ Hunter: The Vigil 2e — Tactics Engine [ALPHA]
 
 ### An interactive tactics calculator for the RPG Hunter: The Vigil 2e, built by fans, for fans.
 
