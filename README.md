@@ -14,7 +14,11 @@ The **Tactics Engine** is an interactive calculator designed to help players and
 
 ## ⚠️ Legal Disclaimer
 
-This is a fan-made project, **non-commercial and non-profit**, created out of love for the system. Hunter: The Vigil is intellectual property of **Paradox Interactive** and **Renegade Game Studios**. This project is not affiliated with, endorsed by, or approved by the rights holders.
+This is a fan-made project, non-commercial and non-profit, created out of love for the system.
+
+Hunter: The Vigil and the Chronicles of Darkness are intellectual properties owned by Paradox Interactive. Hunter: The Vigil Second Edition is published by Onyx Path Publishing under license from Paradox Interactive.
+
+This project is not affiliated with, endorsed by, or approved by Paradox Interactive or Onyx Path Publishing.
 
 All original game content belongs to its respective creators.
 
